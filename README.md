@@ -1,19 +1,3 @@
-<a href="https://www.buymeacoffee.com/maxwellfortney" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
-# next-candy-machine
-
-![image](https://user-images.githubusercontent.com/29241388/136246410-7deb9afd-4809-4b75-848f-d9a99b7d1ff7.png)
-![image](https://user-images.githubusercontent.com/29241388/136248758-2b06398f-1774-486d-a685-3fb6c1ebb11c.png)
-
-The Candy-Machine-Mint project is designed to let users fork, customize, and deploy their own candy machine mint app to a custom domain, ultra fast.
-
-This Candy Machine takes heavily from [Exiled Apes](https://github.com/exiled-apes/candy-machine-mint) and [kevinfaveri](https://github.com/kevinfaveri/solana-candy-factory), and would not be possible without them, but attempts to simplify and provide an easy-to-follow and complete guide.
-
-This guide will not cover topics such as XXX.
-
-**I recommend using Linux to make this process as easy as possible.**
-
 ## Getting Set Up
 
 ### Prerequisites
@@ -30,13 +14,13 @@ This guide will not cover topics such as XXX.
 1. Clone the project
 
 ```
-git clone https://github.com/maxwellfortney/next-candy-machine
+git clone git@github.com:blixor/Next-Candy.git
 ```
 
 2. Install yarn dependencies
 
 ```
-cd next-candy-machine
+cd Next-Candy
 yarn install
 ```
 
